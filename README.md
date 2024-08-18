@@ -6,4 +6,4 @@ The goal is to hit the space bar to fly upwards as gravity accelerates the bird 
 
 # Gameplay
 <video src="" width=180/></video>
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://youtu.be/S5jGmsfnMK0)
+[![Watch the video](https://youtu.be/S5jGmsfnMK0)]
